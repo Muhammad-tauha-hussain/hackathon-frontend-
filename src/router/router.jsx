@@ -3,7 +3,7 @@ import App from "../App";
 import Home from "../pages/Home";
 import CategoryPage from "../pages/CategoryPage";
 import LoanInfo from "../pages/LoanInfo";
-import UserDashboard from "../pages/userDashboard";
+import UserDashboard from "../pages/UserDashboard";
 import UserLoginPage from "../pages/UserLoginPage";
 
 const router = createBrowserRouter([
